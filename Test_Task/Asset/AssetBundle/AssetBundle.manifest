@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2523228832
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fruits
+      Dependencies: {}
+    Info_1:
+      Name: banan.1
+      Dependencies: {}
+    Info_2:
+      Name: apple
+      Dependencies: {}

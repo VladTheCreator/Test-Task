@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4014412508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80391512aa9e158227b8f2c569dc8923
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Simasart/Hungry Bat/Art/Fruits/banana.png
+Dependencies: []
