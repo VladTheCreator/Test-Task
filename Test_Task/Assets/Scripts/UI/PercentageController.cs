@@ -11,6 +11,6 @@ public class PercentageController : MonoBehaviour
 
     public void IncreasePercentage(float progress)
     {
-        percentageText.text = (progress * 100).ToString() + "%";  
+        percentageText.text = ((int)(progress * 100)).ToString() + "%";  
     }
 }
